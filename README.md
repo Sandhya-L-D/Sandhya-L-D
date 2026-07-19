@@ -1,39 +1,31 @@
- Hi there, I'm Sandhya L D 👋
+<h1 align="center">Hi 👋, I'm Sandhya L D</h1>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RydXQ0dDh4Z2Y4bDdmOGY2M2NnNjVvOXNhZWd2M2VhY2VxbnNlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
+<h3 align="center">💻 MCA Student | Aspiring Java Developer | DSA Learner | Web Development Enthusiast</h3>
 
-🎓 MCA Student  
-💻 Aspiring Java Developer  
-📚 Learning Data Structures & Algorithms in Java  
-🌐 Web Development Enthusiast  
-🚀 Passionate about Programming and Continuous Learning
+<img align="right" alt="Girl Coding" width="350" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
----
+## 🌸 About Me
 
-👩‍💻 About Me
-
-- 🌱 Currently learning **Java, DSA, SQL, Spring Boot**
-- 🎯 Goal: Become a Software Developer
-- 💡 Interested in Backend Development and Problem Solving
-- 📖 Love learning new technologies every day
-- ⚡ Fun Fact: I enjoy turning ideas into projects through code.
+- 🎓 MCA Student
+- 💻 Aspiring Java Developer
+- 📚 Currently learning **Java, DSA, SQL & Spring Boot**
+- 🌱 Exploring **Full Stack Web Development**
+- 🚀 Goal: Become a Software Developer
+- ✨ I believe in learning by building real projects.
 
 ---
 
- 🛠️ Languages & Tools
+## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,github,vscode,eclipse" />
+
+</p>
 
 ---
 
-📚 Currently Learning
+## 📚 Currently Learning
 
 - ☕ Java Programming
 - 📈 Data Structures & Algorithms
@@ -43,44 +35,82 @@
 
 ---
 
-🚀 My Projects
+## 🚀 Featured Projects
 
-- 🐍 Python Beginner Projects
-- ☕ Java Projects *(Coming Soon)*
-- 📊 DSA in Java *(Coming Soon)*
-- 🌐 Portfolio Website *(Coming Soon)*
+📌 Python Beginner Projects
 
----
+📌 Java Projects *(Coming Soon)*
 
-📊 GitHub Stats
+📌 DSA in Java *(Coming Soon)*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandhya-L-D&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya-L-D&layout=compact&theme=tokyonight)
+📌 Portfolio Website *(Coming Soon)*
 
 ---
 
-🔥 GitHub Streak
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sandhya-L-D&theme=tokyonight)
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
- 🎯 2026 Goals
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-- ✅ Master Java
-- ✅ Master DSA
-- ✅ Learn Spring Boot
-- ✅ Build 20+ GitHub Projects
-- ✅ Contribute to Open Source
-- ✅ Become a Software Developer
+</p>
 
 ---
 
- 📫 Connect With Me
- 
- GitHub: https://github.com/Sandhya-L-D
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-⭐ *"Every expert was once a beginner. Keep learning, keep building!"*
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+✅ Master Java
+
+✅ Master DSA
+
+✅ Learn Spring Boot
+
+✅ Build 20+ Projects
+
+✅ Contribute to Open Source
+
+✅ Crack Software Developer Interviews
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💙 "Code. Learn. Build. Repeat."
+
+⭐ Thanks for visiting my profile!
+
+</p>
