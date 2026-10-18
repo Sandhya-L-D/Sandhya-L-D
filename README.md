@@ -68,7 +68,7 @@
 ## 📫 Connect With Me
 
 - 📧 **Email:** sandhyald2004@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sandhya-l-d-3a520539b
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sandhya-l-d
 - 💻 **GitHub:** https://github.com/Sandhya-L-D
 
 ---
