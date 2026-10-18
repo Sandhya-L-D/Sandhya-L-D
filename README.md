@@ -4,17 +4,17 @@
 
 <h1 align="center">Hi 👋, I'm Sandhya L D</h1>
 
-<h3 align="center">MCA Student | Aspiring Java Developer | DSA Learner</h3>
+<h3 align="center">MCA Student | Aspiring Java Full Stack Developer | DSA Learner</h3>
 
 ---
 
 ## 🌸 About Me
 
 - 🎓 MCA Student at Vidyavardhaka College of Engineering
-- ☕ Passionate about Java Development
-- 📚 Currently learning Data Structures & Algorithms in Java
-- 🌱 Exploring Spring Boot & Full Stack Web Development
-- 🚀 Building projects to improve my programming skills
+- ☕ Learning Java and Data Structures & Algorithms
+- 🗄️ Strengthening SQL and database fundamentals
+- 🌐 Exploring Web Development and Java Full Stack Development
+- 🚀 Building practical projects and documenting my learning journey
 
 ---
 
