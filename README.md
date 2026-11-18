@@ -38,8 +38,12 @@
 
 ## 🚀 Featured Projects
 
-- 🐍 Python Beginner Projects
-- ☕ Java Basics *(In Progress)*
+- ☕ [ApplyTrack — Java Application Tracker](https://github.com/Sandhya-L-D/Java-Basics/tree/main/projects/applytrack-java): desktop and CLI tracking, CSV persistence and 20 behavioural tests.
+- 🔎 [AuthLog Analyzer — Java Login Log Analysis](https://github.com/Sandhya-L-D/Java-Basics/tree/main/projects/authlog-analyzer-java): sliding-window rules, HTML/CSV reports and 22 behavioural tests.
+- 🐍 [Python Beginner Projects](https://github.com/Sandhya-L-D/python-beginner-projects)
+- ☕ [Java Basics](https://github.com/Sandhya-L-D/Java-Basics) *(In Progress)*
+
+The two Java portfolio projects were developed with AI assistance and include runnable source, tests and walkthroughs.
 
 ---
 
